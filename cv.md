@@ -34,3 +34,11 @@ for (let i = 0; i < objects.length; i++){
  return obj 
 }
   ```
+  ## Languages
+  
+  * russian - native
+  * azerbaijani - native
+  * germany - advanced 
+  * english - intermediate
+ 
+  
